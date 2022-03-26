@@ -1,5 +1,9 @@
 # AGILE
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/102003274/160253793-144064a8-2eee-4292-94a5-903951df21fe.jpg" width="200px" />
+</div>
+
 Olá, esse repositório foi criado para alocar nossa assistente virtual AGILE.
 
 AGILE é uma assistente virtual que tem como objetivo auxiliar projetos de metodologia agil, com foco em SCRUM.
