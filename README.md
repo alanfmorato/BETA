@@ -20,17 +20,14 @@
 
 # EQUIPE DELTA 1
 
-    * Alan Morato
-    * Ariane
-    * Damares
-    * Elizabeth
-    * Henrique
-    * Karine
-    * Larissa
-    * Marcela
-    * Rodrigo
-    * Tobias
-    * Vitoria
+    * Alan Fabrício Morato
+    * Marcela Ribeiro de Melo
+    * Ariane Cristine Alves de Sousa
+    * Damares Rosa das Montanhas
+    * Elizabeth Cristina Alves Leite
+    * Larissa Tomé de Souza
+    * Luiz Henrique Berti
+    * Karine Zendonadi da Silva
 
 # TABELA DE CONTEÚDO
 
