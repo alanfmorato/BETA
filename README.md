@@ -1,5 +1,5 @@
 <h2 align = "center">
-    Projeto em construção!!
+    📱 PROJETO EM CONSTRUÇÃO!! 🚧
 <h4/>
 
 <h1 align = "center"> Assistente Virtual AGILE </h1>
@@ -28,10 +28,11 @@
 
     * [Explicação]
     * [Requisitos do cliente]
+    * [Backlog do produto]
     * [Funcionalidades]
-    * [Linguagens utilizadas]
+    * [Tecnologias]
+    * [Bibliotecas]
     * [Planejamento]
-    * [Bibliotecas utilizadas]
     * [Sprints]
     * [Backlog geral]
     * [Backlog sprint]
@@ -59,6 +60,8 @@ Obrigado!!
     * PROJETO NO GITHUB
     * AVALIAR GRUPO INDIVIDUALMENTE PELO MÉTODO PACER
 
+
+
 # FUNCIONALIDADES
 
     * Seleção de tasks
@@ -70,10 +73,30 @@ Obrigado!!
 
 # TECNOLOGIAS UTILIZADAS
 
-- [x] Python
-- [x] HTML
-- [x] CSS
-- [x] Banco de dados (a definir)
+- ✅ Python
+- ✅ HTML
+- ✅ CSS
+- ✅ Banco de dados (a definir)
+
+# BIBLIOTECAS
+
+- ✅ Python - SpeechRecognition 3.8.1
+- ✅ Python - pip install pipwin /
+- ✅ Python - pipwin install pyaudio
+- ✅ Python - vosk 0.3.32 (pip install vosk)
+- ✅ Python - pyttsx3 2.90 (pip install pyttsx3)
+- ✅ Python - import pyttsx3
+
+# PLANEJAMENTO
+
+---------------
+
+# SPRINTS
+
+- ✅ SPRINT 1
+- ✅ SPRINT 2
+- ✅ SPRINT 3
+
 
 
 
