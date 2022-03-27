@@ -10,6 +10,14 @@
 
 <br>
 
+
+# CRONOGRAMA DE ENTREGA 📅
+
+    ✅ **Kick off do projeto** - 17/03/2022 
+* [x] **Sprint 1** - Início: 25/03/2022 Entrega: 14/04/2022
+* [x] **Sprint 2** - Início: 25/04/2022 Entrega: 15/05/2022
+* [x] **Sprint 3** - Início: 16/05/2022 Entrega: 05/06/2022
+
 # EQUIPE DELTA 1
 
     * Alan Morato
@@ -62,6 +70,12 @@ Obrigado!!
 
 
 
+# BACKLOG DO PRODUTO
+
+----------
+
+
+
 # FUNCIONALIDADES
 
     * Seleção de tasks
@@ -91,11 +105,11 @@ Obrigado!!
 
 ---------------
 
-# SPRINTS
+# SPRINTS 📅
 
-- ✅ SPRINT 1
-- ✅ SPRINT 2
-- ✅ SPRINT 3
+- ✅ SPRINT 1 - Em desenvolvimento 🚧
+- ✅ SPRINT 2 - Aguardando
+- ✅ SPRINT 3 - Aguardando
 
 
 
