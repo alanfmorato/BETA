@@ -10,13 +10,32 @@
 
 <br>
 
+# TABELA DE CONTEÚDO
 
-# CRONOGRAMA DE ENTREGA 📅
+    * [Explicação]
+    * [Equipe]
+    * [Requisitos do cliente]
+    * [Backlog do produto]
+    * [Cronomgrama de entrega]
+    * [Funcionalidades]
+    * [Tecnologias]
+    * [Bibliotecas]
+    * [Planejamento]
+    * [Sprints]
+    * [Backlog sprint 1]
+    * [Backlog sprint 2]
+    * [Backlog sprint 3]
 
-    ✅ **Kick off do projeto** - 17/03/2022 
-* [x] **Sprint 1** - Início: 25/03/2022 Entrega: 14/04/2022
-* [x] **Sprint 2** - Início: 25/04/2022 Entrega: 15/05/2022
-* [x] **Sprint 3** - Início: 16/05/2022 Entrega: 05/06/2022
+
+# EXPLICAÇÃO
+
+Olá, esse repositório foi criado para alocar nossa assistente virtual AGILE.
+
+AGILE é uma assistente virtual que tem como objetivo auxiliar projetos de metodologia agil, com foco em SCRUM.
+
+Leia atentamente o manual de instruções para que a AGILE seja executada corretamente
+
+Obrigado!!
 
 # EQUIPE DELTA 1
 
@@ -28,29 +47,6 @@
     * Larissa Tomé de Souza
     * Luiz Henrique Berti
     * Karine Zendonadi da Silva
-
-# TABELA DE CONTEÚDO
-
-    * [Explicação]
-    * [Requisitos do cliente]
-    * [Backlog do produto]
-    * [Funcionalidades]
-    * [Tecnologias]
-    * [Bibliotecas]
-    * [Planejamento]
-    * [Sprints]
-    * [Backlog geral]
-    * [Backlog sprint]
-
-# EXPLICAÇÃO
-
-Olá, esse repositório foi criado para alocar nossa assistente virtual AGILE.
-
-AGILE é uma assistente virtual que tem como objetivo auxiliar projetos de metodologia agil, com foco em SCRUM.
-
-Leia atentamente o manual de instruções para que a AGILE seja executada corretamente
-
-Obrigado!!
 
 # REQUISITOS DO CLIENTE
 
@@ -65,13 +61,19 @@ Obrigado!!
     * PROJETO NO GITHUB
     * AVALIAR GRUPO INDIVIDUALMENTE PELO MÉTODO PACER
 
-
-
 # BACKLOG DO PRODUTO
 
-----------
+<img src="https://user-images.githubusercontent.com/102003274/160311294-ec3e7412-589c-4bb6-a959-4ee8e6d63939.png" width="800px" />
+</div>
 
 
+
+# CRONOGRAMA DE ENTREGA 📅
+
+    ✅  **Kick off do projeto** - 17/03/2022 
+* [x] **Sprint 1** - Início: 25/03/2022 Entrega: 14/04/2022
+* [x] **Sprint 2** - Início: 25/04/2022 Entrega: 15/05/2022
+* [x] **Sprint 3** - Início: 16/05/2022 Entrega: 05/06/2022
 
 # FUNCIONALIDADES
 
@@ -89,6 +91,7 @@ Obrigado!!
 - ✅ CSS
 - ✅ Banco de dados (a definir)
 
+
 # BIBLIOTECAS
 
 - ✅ Python - SpeechRecognition 3.8.1
@@ -100,13 +103,21 @@ Obrigado!!
 
 # PLANEJAMENTO
 
----------------
+- ✅ JIRA
+- ✅ GITHUB
+- ✅ GRÁFICO DE BURNDOWN
+- ✅ REUNIÕES SEMANAIS
+- ✅ SERVIDOR DE DISCORD PARA TRABALHAR REMOTAMENTE
 
 # SPRINTS 📅
 
 - ✅ SPRINT 1 - Em desenvolvimento 🚧
 - ✅ SPRINT 2 - Aguardando
 - ✅ SPRINT 3 - Aguardando
+
+
+
+
 
 
 
