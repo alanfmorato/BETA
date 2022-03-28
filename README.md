@@ -47,6 +47,7 @@ Obrigado!!
     * Larissa Tomé de Souza
     * Luiz Henrique Berti
     * Karine Zendonadi da Silva
+    *Vitória Brancatti Ramos Lopes Batista
 
 # REQUISITOS DO CLIENTE
 
