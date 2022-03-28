@@ -22,9 +22,12 @@
     * [Bibliotecas]
     * [Planejamento]
     * [Sprints]
-    * [Backlog sprint 1]
-    * [Backlog sprint 2]
-    * [Backlog sprint 3]
+    * [Backlog sprint 1 + Meta da sprint]
+    * [Backlog sprint 2 + Meta da sprint]
+    * [Backlog sprint 3 + Meta da sprint]
+    * Burndown
+    * Task;Story Board
+    * Mockups
 
 
 # EXPLICAÇÃO
@@ -48,6 +51,7 @@ Obrigado!!
     * Luiz Henrique Berti
     * Karine Zendonadi da Silva
     * Vitória Brancatti Ramos  Lopes Batista
+
 # REQUISITOS DO CLIENTE
 
     * ASSISTENTE PESSOAL VIRTUAL
@@ -65,8 +69,6 @@ Obrigado!!
 
 <img src="https://user-images.githubusercontent.com/102003274/160311294-ec3e7412-589c-4bb6-a959-4ee8e6d63939.png" width="800px" />
 </div>
-
-
 
 # CRONOGRAMA DE ENTREGA 📅
 
@@ -90,6 +92,7 @@ Obrigado!!
 - ✅ HTML
 - ✅ CSS
 - ✅ Banco de dados (a definir)
+- ✅ Photoshop
 
 
 # BIBLIOTECAS
