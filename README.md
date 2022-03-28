@@ -37,7 +37,7 @@ Leia atentamente o manual de instruções para que a AGILE seja executada corret
 
 Obrigado!!
 
-# EQUIPE DELTA 1
+# EQUIPE BETA 1
 
     * Alan Fabrício Morato
     * Marcela Ribeiro de Melo
