@@ -77,6 +77,7 @@ Obrigado!!
 * [x] **Sprint 1** - Início: 25/03/2022 Entrega: 14/04/2022
 * [x] **Sprint 2** - Início: 25/04/2022 Entrega: 15/05/2022
 * [x] **Sprint 3** - Início: 16/05/2022 Entrega: 05/06/2022
+* [x] **Feira de soluções** Data: 15/06/2022
 
 # FUNCIONALIDADES
 
