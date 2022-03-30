@@ -13,21 +13,20 @@
 # TABELA DE CONTEÚDO
 <-!---ts----> <br>
     * [Explicação](#Explicação) <br>
-    * [Equipe](#Equipe) <br>
+    * [Equipe Beta 1](#Equipe-beta-1) <br>
     * [Requisitos do cliente](#Requisitos-do-cliente) <br>
     * [Backlog do produto](#backlog-do-produto) <br>
-    * [Cronomgrama de entrega](#cronograma-de-entrega) <br>
-    * [Funcionalidades](#Funcionalidades) <br>
-    * [Tecnologias](#Tecnologias) <br>
-    * [Bibliotecas](#Bibliotecas) <br>
-    * [Planejamento](#Planejamento) <br>
-    * [Sprints](#Sprints) <br>
     * [Backlog sprint 1](#Backlog-sprint-1) <br>
     * [Backlog sprint 2](#Backlog-sprint-2) <br>
     * [Backlog sprint 3](#Backlog-sprint-3) <br>
+    * [Cronograma de entrega](#cronograma-de-entrega) <br>
+    * [Planejamento](#Planejamento) <br>
+    * [Sprints](#Sprints) <br>
     * [Burndown](#Burndown) <br>
-    * [Task e Story Board](#Task-e-Story-Board) <br>
-    * [Mockups](#Mockups) <br>
+    * [Fluxograma](#Fluxograma) <br>
+    * [Funcionalidades](#Funcionalidades) <br>
+    * [Tecnologias](#Tecnologias) <br>
+    * [Bibliotecas](#Bibliotecas) <br>
 <-!---te---->
 
 # EXPLICAÇÃO
@@ -71,6 +70,13 @@ Obrigado!!
 <img src="https://user-images.githubusercontent.com/102003274/160311294-ec3e7412-589c-4bb6-a959-4ee8e6d63939.png" width="800px" />
 </div>
 
+#BACKLOG SPRINT 1
+
+#BACKLOG SPRINT 2
+
+#BACKLOG SPRINT 3
+
+
 # CRONOGRAMA DE ENTREGA 📅
 
     ✅  **Kick off do projeto** - 17/03/2022 
@@ -87,7 +93,7 @@ Obrigado!!
 * [x] Relatórios
 * [x] Cálculo de custos
 
-# TECNOLOGIAS UTILIZADAS
+# TECNOLOGIAS
 
 - ✅ [Python](https://www.python.org)
 - ✅ [HTML](https://html.com)
@@ -115,13 +121,13 @@ Obrigado!!
 
 # BURNDOWN
 
-# SPRINTS 📅
+# FLUXOGRAMA
+
+# SPRINTS
 
 - ✅ SPRINT 1 - Em desenvolvimento 🚧
 - ✅ SPRINT 2 - Aguardando
 - ✅ SPRINT 3 - Aguardando
-
-
 
 
 
