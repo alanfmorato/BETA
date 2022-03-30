@@ -11,7 +11,7 @@
 <br>
 
 # TABELA DE CONTEÚDO
-<----ts----> <br>
+<-!---ts----> <br>
     * [Explicação](#Explicação) <br>
     * [Equipe](#Equipe) <br>
     * [Requisitos do cliente](#Requisitos-do-cliente) <br>
@@ -28,7 +28,7 @@
     * [Burndown](#Burndown) <br>
     * [Task e Story Board](#Task-e-Story-Board) <br>
     * [Mockups](#Mockups) <br>
-<----te---->
+<-!---te---->
 
 # EXPLICAÇÃO
 
@@ -42,29 +42,29 @@ Obrigado!!
 
 # EQUIPE BETA 1
 
-    * Alan Fabrício Morato
-    * Marcela Ribeiro de Melo
-    * Ariane Cristine Alves de Sousa
-    * Damares Rosa das Montanhas
-    * Elizabeth Cristina Alves Leite
-    * Larissa Tomé de Souza
-    * Luiz Henrique Berti
-    * Karine Zendonadi da Silva
-    * Tobias Fernandes Bezerra Sousa
-    * Vitória Brancatti Ramos  Lopes Batista
+* Alan Fabrício Morato
+* Marcela Ribeiro de Melo
+* Ariane Cristine Alves de Sousa
+* Damares Rosa das Montanhas
+* Elizabeth Cristina Alves Leite
+* Larissa Tomé de Souza
+* Luiz Henrique Berti
+* Karine Zendonadi da Silva
+* Tobias Fernandes Bezerra Sousa
+* Vitória Brancatti Ramos  Lopes Batista
 
 # REQUISITOS DO CLIENTE
 
-    * ASSISTENTE PESSOAL VIRTUAL
-    * RESPONDER A COMANDO DE VOZ OU SONS
-    * POSSUIR 8 AÇÕES DISTINTAS (DE NATUREZA DISTINTAS)
-    * SER MOBILE, DESKTOP OU WEB
-    * RETORNAR AO COMANDO POR VOZ, CHAT OU AÇÃO
-    * TER UM CONTEXTO (NICHO) ESPECÍFICO
-    * METODOLOGIA SCRUM
-    * TOTAL DE 3 SPRINTS
-    * PROJETO NO GITHUB
-    * AVALIAR GRUPO INDIVIDUALMENTE PELO MÉTODO PACER
+* ASSISTENTE PESSOAL VIRTUAL
+* RESPONDER A COMANDO DE VOZ OU SONS
+* POSSUIR 8 AÇÕES DISTINTAS (DE NATUREZA DISTINTAS)
+* SER MOBILE, DESKTOP OU WEB
+* RETORNAR AO COMANDO POR VOZ, CHAT OU AÇÃO
+* TER UM CONTEXTO (NICHO) ESPECÍFICO
+* METODOLOGIA SCRUM
+* TOTAL DE 3 SPRINTS
+* PROJETO NO GITHUB
+* AVALIAR GRUPO INDIVIDUALMENTE PELO MÉTODO PACER
 
 # BACKLOG DO PRODUTO
 
@@ -80,39 +80,40 @@ Obrigado!!
 * [x] **Feira de soluções** Data: 15/06/2022
 
 # FUNCIONALIDADES
-
-    * Seleção de tasks
-    * Modo pomodoro
-    * Gerenciamento de task's
-    * Consulta simples
-    * Relatórios
-    * Cálculo de custos
+    ✅ Modo pomodoro
+    ✅ Consulta simples
+* [x] Seleção de tasks
+* [x] Gerenciamento de task's
+* [x] Relatórios
+* [x] Cálculo de custos
 
 # TECNOLOGIAS UTILIZADAS
 
-- ✅ Python
-- ✅ HTML
-- ✅ CSS
+- ✅ [Python](https://www.python.org)
+- ✅ [HTML](https://html.com)
+- ✅ [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 - ✅ Banco de dados (a definir)
-- ✅ Photoshop
+- ✅ [Photoshop](https://www.adobe.com/br/products/photoshop.html)
 
 
 # BIBLIOTECAS
 
-- ✅ Python - SpeechRecognition 3.8.1
-- ✅ Python - pip install pipwin /
-- ✅ Python - pipwin install pyaudio
-- ✅ Python - vosk 0.3.32 (pip install vosk)
-- ✅ Python - pyttsx3 2.90 (pip install pyttsx3)
-- ✅ Python - import pyttsx3
+- ✅ [Python - SpeechRecognition 3.8.1](https://pypi.org/project/SpeechRecognition/)
+- ✅ [Python - pipwin](https://pypi.org/project/pipwin/)
+- ✅ [Python - pyaudio](https://pypi.org/project/PyAudio/)
+- ✅ [Python - vosk 0.3.32](https://pypi.org/project/vosk/)
+- ✅ [Python - pyttsx3 2.90](https://pypi.org/project/pyttsx3/)
+- ✅ [Python - import pyttsx3](https://pypi.org/project/pyttsx3/)
 
 # PLANEJAMENTO
 
-- ✅ JIRA
-- ✅ GITHUB
-- ✅ GRÁFICO DE BURNDOWN
-- ✅ REUNIÕES SEMANAIS
-- ✅ SERVIDOR DE DISCORD PARA TRABALHAR REMOTAMENTE
+- ✅ [JIRA](https://www.atlassian.com/br/software/jira?&aceid=&adposition=&adgroup=122417878230&campaign=12465632619&creative=502390396954&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p61643715359&ds_e=GOOGLE&ds_eid=700000001550060&ds_e1=GOOGLE&gclid=Cj0KCQjw3IqSBhCoARIsAMBkTb2VcJSk0R7A0Gh6L19uLA8IpBjfvvuK79UkXk6w9M3xhCOv9sdf-m0aAoBBEALw_wcB&gclsrc=aw.ds)
+- ✅ [GITHUB](https://github.com)
+- ✅ [GRÁFICO DE BURNDOWN](#BURNDOWN)
+- ✅ [REUNIÕES SEMANAIS]
+- ✅ [SERVIDOR DE DISCORD PARA TRABALHAR REMOTAMENTE](https://discord.com)
+
+# BURNDOWN
 
 # SPRINTS 📅
 
