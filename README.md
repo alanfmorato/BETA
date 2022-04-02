@@ -66,12 +66,12 @@ Obrigado!!
 
 # BACKLOG DO PRODUTO
 
-<img src="https://user-images.githubusercontent.com/102003274/160311294-ec3e7412-589c-4bb6-a959-4ee8e6d63939.png" width="800px" />
+<img src="https://user-images.githubusercontent.com/102003274/161398678-96599029-1265-40ef-9e6f-959fd7660122.png" width="800px" />
 </div>
 
 # BACKLOG SPRINT 1
 
-<img src="https://user-images.githubusercontent.com/102003274/161396305-12bdb962-e3c9-4355-bf12-6202d37e8ff8.png" width="800px" />
+<img src="https://user-images.githubusercontent.com/102003274/161398164-16f05c4c-73a9-4b9e-9a05-5a05723d2d2b.png" width="800px" />
 </div>
 
 # BACKLOG SPRINT 2
