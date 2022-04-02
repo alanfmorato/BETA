@@ -2,7 +2,7 @@
     📱 PROJETO EM CONSTRUÇÃO!! 🚧
 <h4/>
 
-<h1 align = "center"> Assistente Virtual AGILE </h1>
+<h1 align = "center"> Assistente Virtual HELPY </h1>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/102003274/160285282-b3d220d2-bf73-4aba-9c86-74a6a4b640b0.png" width="200px" />
@@ -31,11 +31,11 @@
 
 # EXPLICAÇÃO
 
-Olá, esse repositório foi criado para alocar nossa assistente virtual AGILE.
+Olá, esse repositório foi criado para alocar nossa assistente virtual HELPY.
 
-AGILE é uma assistente virtual que tem como objetivo auxiliar projetos de metodologia agil, com foco em SCRUM.
+HELPY é uma assistente virtual que tem como objetivo auxiliar os alunos nos seus estudos no dia-a-dia.
 
-Leia atentamente o manual de instruções para que a AGILE seja executada corretamente
+Leia atentamente o manual de instruções para que a HELPY seja executada corretamente.
 
 Obrigado!!
 
@@ -48,7 +48,6 @@ Obrigado!!
 * Elizabeth Cristina Alves Leite
 * Larissa Tomé de Souza
 * Luiz Henrique Berti
-* Karine Zendonadi da Silva
 * Tobias Fernandes Bezerra Sousa
 * Vitória Brancatti Ramos  Lopes Batista
 
@@ -70,11 +69,14 @@ Obrigado!!
 <img src="https://user-images.githubusercontent.com/102003274/160311294-ec3e7412-589c-4bb6-a959-4ee8e6d63939.png" width="800px" />
 </div>
 
-#BACKLOG SPRINT 1
+# BACKLOG SPRINT 1
 
-#BACKLOG SPRINT 2
+<img src="https://user-images.githubusercontent.com/102003274/161396305-12bdb962-e3c9-4355-bf12-6202d37e8ff8.png" width="800px" />
+</div>
 
-#BACKLOG SPRINT 3
+# BACKLOG SPRINT 2
+
+# BACKLOG SPRINT 3
 
 
 # CRONOGRAMA DE ENTREGA 📅
@@ -87,18 +89,19 @@ Obrigado!!
 
 # FUNCIONALIDADES
     ✅ Modo pomodoro
-    ✅ Consulta simples
-* [x] Seleção de tasks
-* [x] Gerenciamento de task's
-* [x] Relatórios
-* [x] Cálculo de custos
+    ✅ Consulta simples wikipedia
+* [x] Calendário
+* [x] Lembrete
+* [x] Scraps
+* [x] Gravação de voz
+* [x] Reprodutor de música
+* [x] Gravação de voz
 
 # TECNOLOGIAS
 
 - ✅ [Python](https://www.python.org)
 - ✅ [HTML](https://html.com)
 - ✅ [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
-- ✅ Banco de dados (a definir)
 - ✅ [Photoshop](https://www.adobe.com/br/products/photoshop.html)
 
 
@@ -116,12 +119,14 @@ Obrigado!!
 - ✅ [JIRA](https://www.atlassian.com/br/software/jira?&aceid=&adposition=&adgroup=122417878230&campaign=12465632619&creative=502390396954&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p61643715359&ds_e=GOOGLE&ds_eid=700000001550060&ds_e1=GOOGLE&gclid=Cj0KCQjw3IqSBhCoARIsAMBkTb2VcJSk0R7A0Gh6L19uLA8IpBjfvvuK79UkXk6w9M3xhCOv9sdf-m0aAoBBEALw_wcB&gclsrc=aw.ds)
 - ✅ [GITHUB](https://github.com)
 - ✅ [GRÁFICO DE BURNDOWN](#BURNDOWN)
-- ✅ [REUNIÕES SEMANAIS]
 - ✅ [SERVIDOR DE DISCORD PARA TRABALHAR REMOTAMENTE](https://discord.com)
+- ✅ [METODOLOGIA SCRUM](#http://www.desenvolvimentoagil.com.br/scrum/)
 
 # BURNDOWN
 
 # FLUXOGRAMA
+
+- ✅ [FLUXOGRAMA](#https://user-images.githubusercontent.com/102003274/161396626-9e47076a-67c0-4d33-a1f9-2a2696974a9b.jpg)
 
 # SPRINTS
 
