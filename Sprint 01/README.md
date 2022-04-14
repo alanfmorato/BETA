@@ -9,12 +9,12 @@
 # TABELA DE CONTEÚDO 📝
 
 <-!--ts--> <br>
-[Objetivo](#Explicação) <br>
+[Objetivo](#OBJETIVO) <br>
 [Requisitos do cliente](#Requisitos-do-cliente) <br>
-[Cronograma de entrega](#cronograma-de-entrega) <br>
+[Cronograma de entrega](#CRONOGRAMA-DE-ENTREGA-📅) <br>
 [Funcionalidades](#Funcionalidades) <br>
-[Tecnologias](#Tecnologias) <br>
-[Bibliotecas](#Bibliotecas) <br>
+[Tecnologias](#TECNOLOGIAS-💻) <br>
+[Bibliotecas](#BIBLIOTECAS-📗) <br>
 [Backlog do produto](#backlog-do-produto) <br>
 [Backlog sprint 1](#Backlog-sprint-1) <br>
 [Backlog sprint 2](#Backlog-sprint-2) <br>
