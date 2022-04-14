@@ -11,10 +11,10 @@
 <-!--ts--> <br>
 [Objetivo](#OBJETIVO) <br>
 [Requisitos do cliente](#Requisitos-do-cliente) <br>
-[Cronograma de entrega](#CRONOGRAMA-DE-ENTREGA-📅) <br>
+[Cronograma de entrega](#CRONOGRAMA-DE-ENTREGA) <br>
 [Funcionalidades](#Funcionalidades) <br>
-[Tecnologias](#TECNOLOGIAS-💻) <br>
-[Bibliotecas](#BIBLIOTECAS-📗) <br>
+[Tecnologias](#TECNOLOGIAS) <br>
+[Bibliotecas](#BIBLIOTECAS) <br>
 [Backlog do produto](#backlog-do-produto) <br>
 [Backlog sprint 1](#Backlog-sprint-1) <br>
 [Backlog sprint 2](#Backlog-sprint-2) <br>
@@ -39,7 +39,7 @@ BETA é uma assistente virtual que tem como objetivo auxiliar os alunos em seus 
 * RETORNAR POR VOZ, CHAT OU AÇÃO
 * TER UM CONTEXTO (NICHO) ESPECÍFICO DE APLICAÇÃO
 
-# CRONOGRAMA DE ENTREGA 📅
+# CRONOGRAMA DE ENTREGA
 
     ✅  **Kick off do projeto** - 17/03/2022 
     ✅  **Sprint 1** - Início: 25/03/2022 Entrega: 14/04/2022
@@ -57,14 +57,14 @@ BETA é uma assistente virtual que tem como objetivo auxiliar os alunos em seus 
 * [ ] Reprodutor de música
 * [ ] Gravação de voz
 
-# TECNOLOGIAS 💻
+# TECNOLOGIAS
 
 - ✅ [Python](https://www.python.org)
 - ✅ [HTML](https://html.com)
 - ✅ [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 - ✅ [Photoshop](https://www.adobe.com/br/products/photoshop.html)
 
-# BIBLIOTECAS 📗
+# BIBLIOTECAS
 
 - ✅ [Python - SpeechRecognition 3.8.1](https://pypi.org/project/SpeechRecognition/)
 - ✅ [Python - pipwin](https://pypi.org/project/pipwin/)
