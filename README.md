@@ -2,7 +2,7 @@
     📱 PROJETO EM CONSTRUÇÃO!! 🚧
 <h4/>
 
-<h1 align = "center"> Assistente Virtual HELPY </h1>
+<h1 align = "center"> Assistente Virtual BETA </h1>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/102003274/160285282-b3d220d2-bf73-4aba-9c86-74a6a4b640b0.png" width="200px" />
@@ -21,21 +21,18 @@
     * [Backlog sprint 3](#Backlog-sprint-3) <br>
     * [Cronograma de entrega](#cronograma-de-entrega) <br>
     * [Planejamento](#Planejamento) <br>
-    * [Sprints](#Sprints) <br>
-    * [Burndown](#Burndown) <br>
-    * [Fluxograma](#Fluxograma) <br>
     * [Funcionalidades](#Funcionalidades) <br>
     * [Tecnologias](#Tecnologias) <br>
     * [Bibliotecas](#Bibliotecas) <br>
-<-!---te---->
+    * [Sprints](#Sprints) <br>
 
 # EXPLICAÇÃO
 
-Olá, esse repositório foi criado para alocar nossa assistente virtual HELPY.
+Olá, esse repositório foi criado para alocar nossa assistente virtual BETA.
 
-HELPY é uma assistente virtual que tem como objetivo auxiliar os alunos nos seus estudos no dia-a-dia.
+BETA é uma assistente virtual que tem como objetivo auxiliar os alunos nos seus estudos no dia-a-dia.
 
-Leia atentamente o manual de instruções para que a HELPY seja executada corretamente.
+Leia atentamente o manual de instruções para que a BETA seja executada corretamente.
 
 Obrigado!!
 
@@ -66,36 +63,52 @@ Obrigado!!
 
 # BACKLOG DO PRODUTO
 
-<img src="https://user-images.githubusercontent.com/102003274/161398678-96599029-1265-40ef-9e6f-959fd7660122.png" width="800px" />
+<img src="https://user-images.githubusercontent.com/102003274/162843676-9f74b932-5e1f-4bb7-a3e6-200260cda519.png" width="800px" />
 </div>
 
 # BACKLOG SPRINT 1
 
-<img src="https://user-images.githubusercontent.com/102003274/161398164-16f05c4c-73a9-4b9e-9a05-5a05723d2d2b.png" width="800px" />
+<img src="https://user-images.githubusercontent.com/102003274/163286202-2a4b5da7-fe49-44d9-afb1-8b3216ab1bca.png" width="800px" />
 </div>
 
 # BACKLOG SPRINT 2
 
+<img src="https://user-images.githubusercontent.com/102003274/163288501-2201702e-a2b8-404d-b563-363ff07e5beb.png" width="800px" />
+</div>
+
 # BACKLOG SPRINT 3
 
+<img src="https://user-images.githubusercontent.com/102003274/163289022-6cb02dc7-824c-44dd-8c03-d6cecdd6490c.png" width="800px" />
+</div>
 
 # CRONOGRAMA DE ENTREGA 📅
 
     ✅  **Kick off do projeto** - 17/03/2022 
-* [x] **Sprint 1** - Início: 25/03/2022 Entrega: 14/04/2022
+    ✅  **Sprint 1** - Início: 25/03/2022 Entrega: 14/04/2022
 * [x] **Sprint 2** - Início: 25/04/2022 Entrega: 15/05/2022
 * [x] **Sprint 3** - Início: 16/05/2022 Entrega: 05/06/2022
 * [x] **Feira de soluções** Data: 15/06/2022
 
+
+# PLANEJAMENTO
+
+- ✅ [JIRA](https://www.atlassian.com/br/software/jira?&aceid=&adposition=&adgroup=122417878230&campaign=12465632619&creative=502390396954&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p61643715359&ds_e=GOOGLE&ds_eid=700000001550060&ds_e1=GOOGLE&gclid=Cj0KCQjw3IqSBhCoARIsAMBkTb2VcJSk0R7A0Gh6L19uLA8IpBjfvvuK79UkXk6w9M3xhCOv9sdf-m0aAoBBEALw_wcB&gclsrc=aw.ds)
+- ✅ [GITHUB](https://github.com)
+- ✅ [GRÁFICO DE BURNDOWN](#BURNDOWN)
+- ✅ [SERVIDOR DE DISCORD PARA TRABALHAR REMOTAMENTE](https://discord.com)
+- ✅ [METODOLOGIA SCRUM](http://www.desenvolvimentoagil.com.br/scrum/)
+
 # FUNCIONALIDADES
     ✅ Modo pomodoro
     ✅ Consulta simples wikipedia
-* [x] Calendário
-* [x] Lembrete
-* [x] Scraps
-* [x] Gravação de voz
-* [x] Reprodutor de música
-* [x] Gravação de voz
+* [ ] Calendário
+* [ ] Lembrete
+* [ ] Scraps
+* [ ] Gravação de voz
+* [ ] Reprodutor de música
+* [ ] Gravação de voz
+* [ ] Clima
+* [ ] Calculadora
 
 # TECNOLOGIAS
 
@@ -114,19 +127,6 @@ Obrigado!!
 - ✅ [Python - pyttsx3 2.90](https://pypi.org/project/pyttsx3/)
 - ✅ [Python - import pyttsx3](https://pypi.org/project/pyttsx3/)
 
-# PLANEJAMENTO
-
-- ✅ [JIRA](https://www.atlassian.com/br/software/jira?&aceid=&adposition=&adgroup=122417878230&campaign=12465632619&creative=502390396954&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p61643715359&ds_e=GOOGLE&ds_eid=700000001550060&ds_e1=GOOGLE&gclid=Cj0KCQjw3IqSBhCoARIsAMBkTb2VcJSk0R7A0Gh6L19uLA8IpBjfvvuK79UkXk6w9M3xhCOv9sdf-m0aAoBBEALw_wcB&gclsrc=aw.ds)
-- ✅ [GITHUB](https://github.com)
-- ✅ [GRÁFICO DE BURNDOWN](#BURNDOWN)
-- ✅ [SERVIDOR DE DISCORD PARA TRABALHAR REMOTAMENTE](https://discord.com)
-- ✅ [METODOLOGIA SCRUM](#http://www.desenvolvimentoagil.com.br/scrum/)
-
-# BURNDOWN
-
-# FLUXOGRAMA
-
-- ✅ [FLUXOGRAMA](#https://user-images.githubusercontent.com/102003274/161396626-9e47076a-67c0-4d33-a1f9-2a2696974a9b.jpg)
 
 # SPRINTS
 
