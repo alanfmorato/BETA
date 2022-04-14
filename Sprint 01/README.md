@@ -19,6 +19,7 @@
 [Backlog sprint 1](#Backlog-sprint-1) <br>
 [Backlog sprint 2](#Backlog-sprint-2) <br>
 [Backlog sprint 3](#Backlog-sprint-3) <br>
+[Prévia do layout de front end](#PRÉVIA-DO-LAYOUT-DE-FRONT-END) <br>
 [Planejamento](#Planejamento) <br>
 [Teste das funcionalidades](#Teste-das-funcionalidades) <br>
 
@@ -93,7 +94,7 @@ BETA é uma assistente virtual que tem como objetivo auxiliar os alunos em seus 
 <img src="https://user-images.githubusercontent.com/102003274/163289022-6cb02dc7-824c-44dd-8c03-d6cecdd6490c.png" width="800px" />
 </div>
 
-# PRÉVIA LAYOUT FRONT END
+# PRÉVIA DO LAYOUT DE FRONT END
 
 <img src="https://user-images.githubusercontent.com/102003274/163289275-9cabb443-0b1e-4dff-b13f-8e08361e006c.jpeg" width="800px" />
 </div>
@@ -103,7 +104,7 @@ BETA é uma assistente virtual que tem como objetivo auxiliar os alunos em seus 
 - ✅ [JIRA](https://www.atlassian.com/br/software/jira?&aceid=&adposition=&adgroup=122417878230&campaign=12465632619&creative=502390396954&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p61643715359&ds_e=GOOGLE&ds_eid=700000001550060&ds_e1=GOOGLE&gclid=Cj0KCQjw3IqSBhCoARIsAMBkTb2VcJSk0R7A0Gh6L19uLA8IpBjfvvuK79UkXk6w9M3xhCOv9sdf-m0aAoBBEALw_wcB&gclsrc=aw.ds)
 - ✅ [GITHUB](https://github.com)
 - ✅ [SERVIDOR DE DISCORD PARA TRABALHAR REMOTAMENTE](https://discord.com)
-- ✅ [METODOLOGIA SCRUM](#http://www.desenvolvimentoagil.com.br/scrum/)
+- ✅ [METODOLOGIA SCRUM](http://www.desenvolvimentoagil.com.br/scrum/)
 
 
 # TESTE DAS FUNCIONALIDADES
