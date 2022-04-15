@@ -63,23 +63,20 @@ Obrigado!!
 
 # BACKLOG DO PRODUTO
 
-<img src="https://user-images.githubusercontent.com/102003274/162843676-9f74b932-5e1f-4bb7-a3e6-200260cda519.png" width="800px" />
+<img src="https://user-images.githubusercontent.com/102003274/163504048-4c7af2f3-2ad1-46cd-a19b-265e1699157c.png" width="800px" />
 </div>
 
 # BACKLOG SPRINT 1
 
-<img src="https://user-images.githubusercontent.com/102003274/163286202-2a4b5da7-fe49-44d9-afb1-8b3216ab1bca.png" width="800px" />
-</div>
+- ✅ [SPRINT 1](https://github.com/alanfmorato/BETA/tree/main/Sprint%2001)
 
 # BACKLOG SPRINT 2
 
-<img src="https://user-images.githubusercontent.com/102003274/163288501-2201702e-a2b8-404d-b563-363ff07e5beb.png" width="800px" />
-</div>
+- ✅ [SPRINT 2](https://github.com/alanfmorato/BETA/tree/main/Sprint%2002)
 
 # BACKLOG SPRINT 3
 
-<img src="https://user-images.githubusercontent.com/102003274/163289022-6cb02dc7-824c-44dd-8c03-d6cecdd6490c.png" width="800px" />
-</div>
+- ✅ [SPRINT 3](https://github.com/alanfmorato/BETA/tree/main/Sprint%2003)
 
 # CRONOGRAMA DE ENTREGA 📅
 
@@ -104,7 +101,6 @@ Obrigado!!
 * [ ] Calendário
 * [ ] Lembrete
 * [ ] Scraps
-* [ ] Gravação de voz
 * [ ] Reprodutor de música
 * [ ] Gravação de voz
 * [ ] Clima
@@ -121,18 +117,18 @@ Obrigado!!
 # BIBLIOTECAS
 
 - ✅ [Python - SpeechRecognition 3.8.1](https://pypi.org/project/SpeechRecognition/)
-- ✅ [Python - pipwin](https://pypi.org/project/pipwin/)
-- ✅ [Python - pyaudio](https://pypi.org/project/PyAudio/)
-- ✅ [Python - vosk 0.3.32](https://pypi.org/project/vosk/)
-- ✅ [Python - pyttsx3 2.90](https://pypi.org/project/pyttsx3/)
-- ✅ [Python - import pyttsx3](https://pypi.org/project/pyttsx3/)
+- ✅ [Python - Wikipedia](https://pypi.org/project/wikipedia/)
+- ✅ [Python - Time](https://pypi.org/project/time/)
+- ✅ [Python - Datetime](https://pypi.org/project/DateTime/)
+- ✅ [Python - Tkinter](https://pypi.org/project/tk-tools/)
+- ✅ [Python - Winsound](https://pypi.org/project/wav-win-sound/)
 
 
 # SPRINTS
 
-- ✅ SPRINT 1 - Entregue ✅
-- ✅ SPRINT 2 - Aguardando
-- ✅ SPRINT 3 - Aguardando
+-  ✅ SPRINT 1 - Entregue
+- [ ] SPRINT 2 - Aguardando
+- [ ] SPRINT 3 - Aguardando
 
 
 
