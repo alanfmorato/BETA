@@ -18,20 +18,26 @@
 [Teste das funcionalidades](#Teste-das-funcionalidades) <br>
 
 
+
 # OBJETIVO
 
 Olá, esse repositório foi criado para alocar nossa assistente virtual desktop BETA. 
 
 BETA é uma assistente virtual que tem como objetivo auxiliar os alunos em seus estudos no dia-a-dia.
 
+
+
 # CRONOGRAMA DE ENTREGA
 
     ✅  **Kick off do projeto** - 17/03/2022 
     ✅  **Sprint 1** - Início: 25/03/2022 Entrega: 14/04/2022
 
+
+
 # FUNCIONALIDADES
     ✅ Modo pomodoro
     ✅ Consulta simples wikipedia
+
 
 
 # BACKLOG SPRINT 1
@@ -39,10 +45,14 @@ BETA é uma assistente virtual que tem como objetivo auxiliar os alunos em seus 
 <img src="https://user-images.githubusercontent.com/102003274/163286202-2a4b5da7-fe49-44d9-afb1-8b3216ab1bca.png" width="800px" />
 </div>
 
+
+
 # PRÉVIA DO LAYOUT DE FRONT END
 
 <img src="https://user-images.githubusercontent.com/102003274/163289275-9cabb443-0b1e-4dff-b13f-8e08361e006c.jpeg" width="800px" />
 </div>
+
+
 
 # PLANEJAMENTO
 
