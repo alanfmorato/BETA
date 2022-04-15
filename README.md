@@ -130,7 +130,7 @@ Obrigado!!
 
 # SPRINTS
 
-- ✅ SPRINT 1 - Em desenvolvimento 🚧
+- ✅ SPRINT 1 - Entregue ✅
 - ✅ SPRINT 2 - Aguardando
 - ✅ SPRINT 3 - Aguardando
 
