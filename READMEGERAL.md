@@ -39,12 +39,12 @@ Obrigado!!
 # EQUIPE BETA 1
 
 * Alan Fabrício Morato
-* Marcela Ribeiro de Melo
 * Ariane Cristine Alves de Sousa
 * Damares Rosa das Montanhas
 * Elizabeth Cristina Alves Leite
 * Larissa Tomé de Souza
 * Luiz Henrique Berti
+* Marcela Ribeiro de Melo
 * Tobias Fernandes Bezerra Sousa
 * Vitória Brancatti Ramos  Lopes Batista
 
