@@ -2,16 +2,18 @@ import speech_recognition as sr
 import wikipedia
 import pyttsx3
 import time
-import datetime as dt
 from tkinter import messagebox
 import winsound
-import tkinter
+import sounddevice as sd
+from scipy.io.wavfile import write
+import os
+import datetime as d
 
 
 while True:
     audio = sr.Recognizer()
     pomodoro = pyttsx3.init()
-    pomodoro.say('Olá, meu nome é Beta, qual função deseja acessar: Pesquisa, Pomodóro')
+    pomodoro.say('Olá, meu nome é Beta. Qual função deseja acessar: Pesquisa, Pomodóro, Gravador de voz')
     pomodoro.runAndWait()
     pesquisa = pyttsx3.init()
     pesquisa.say(' ')
@@ -36,20 +38,31 @@ while True:
     def comando_voz_usuario():
         comando = executa_comando()
 
-        if 'pesquisa' in comando:
+        if 'pesquisa' == comando:
             procurar = comando.replace('pesquisa', '')
             wikipedia.set_lang('pt')
             resultado = wikipedia.summary(procurar, 1)
             pesquisa.say(resultado)
             pesquisa.runAndWait()
 
-        elif 'pomodoro':
+        if 'gravador de voz' == comando:
+            freq = 44100  # Frequência do áudio: 4999 - 64000
+            seconds = 5  # Duração da gravação
+
+            gravacao = sd.rec(int(seconds * freq), samplerate=freq, channels=2)
+            print("Começando: Fale agora!!")
+            sd.wait()  # Comando de inicialização da gravação.
+            print("Fim da gravação!")
+            write('output.wav', freq, gravacao)  # Salva a gravação como arquivo WAV.
+            os.startfile("output.wav")  # Abre gravação.
+
+        if 'pomodoro' == comando:
 
             t_now = dt.datetime.now()  # data e hora atual;
-            t_pom = 25 * 60  # tempo de duração do fluxo pomodoro 25m;
+            t_pom = 0.3 * 60  # tempo de duração do fluxo pomodoro 25m;
             t_delta = dt.timedelta(0, t_pom)  # diferença de tempo;
             t_fut = t_now + t_delta  # hora que o pomodoro termina e começa a pausa;
-            delta_sec = 5 * 60  # definição de intervalo;
+            delta_sec = 0.3 * 60  # definição de intervalo;
             t_fin = t_now + dt.timedelta(0, t_pom + delta_sec)  # hora que a pausa termina;
 
             pomodoro = pyttsx3.init()
@@ -119,6 +132,5 @@ while True:
                     time.sleep(1)
                     t_now = dt.datetime.now()
                     timenow = t_now.strftime("%H:%M")
-
 
     comando_voz_usuario()
