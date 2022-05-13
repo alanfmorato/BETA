@@ -35,19 +35,19 @@ BETA é uma assistente virtual que tem como objetivo auxiliar os alunos em seus 
 
 
 # FUNCIONALIDADES
-    ✅ Modo pomodoro
-    ✅ Consulta simples wikipedia
+    ✅ Modo pomodoro100/100
+    ✅ Consulta simples wikipedia 90/100
 
 
 
 # BACKLOG SPRINT 1
 
-<img src="https://user-images.githubusercontent.com/102003274/163286202-2a4b5da7-fe49-44d9-afb1-8b3216ab1bca.png" width="800px" />
+<img src="https://user-images.githubusercontent.com/102003274/168402088-b3299ca8-e828-43b1-8be3-61fb047583e5.png" width="800px" />
 </div>
 
 
 
-# PRÉVIA DO LAYOUT DE FRONT END
+# Mockup layout front end
 
 <img src="https://user-images.githubusercontent.com/102003274/163289275-9cabb443-0b1e-4dff-b13f-8e08361e006c.jpeg" width="800px" />
 </div>
@@ -56,7 +56,7 @@ BETA é uma assistente virtual que tem como objetivo auxiliar os alunos em seus 
 
 # PLANEJAMENTO
 
-- ✅ [JIRA](https://www.atlassian.com/br/software/jira?&aceid=&adposition=&adgroup=122417878230&campaign=12465632619&creative=502390396954&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p61643715359&ds_e=GOOGLE&ds_eid=700000001550060&ds_e1=GOOGLE&gclid=Cj0KCQjw3IqSBhCoARIsAMBkTb2VcJSk0R7A0Gh6L19uLA8IpBjfvvuK79UkXk6w9M3xhCOv9sdf-m0aAoBBEALw_wcB&gclsrc=aw.ds)
+- ✅ [Trello](https://trello.com/pt-BR)
 - ✅ [GITHUB](https://github.com)
 - ✅ [SERVIDOR DE DISCORD PARA TRABALHAR REMOTAMENTE](https://discord.com)
 - ✅ [METODOLOGIA SCRUM](http://www.desenvolvimentoagil.com.br/scrum/)
@@ -64,4 +64,4 @@ BETA é uma assistente virtual que tem como objetivo auxiliar os alunos em seus 
 
 # TESTE DAS FUNCIONALIDADES
 
-https://youtu.be/Apc9q5ATMfY
+https://studio.youtube.com/video/Apc9q5ATMfY/edit
