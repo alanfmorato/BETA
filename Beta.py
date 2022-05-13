@@ -1,4 +1,3 @@
-
 import speech_recognition as sr
 import wikipedia
 import pyttsx3
@@ -189,6 +188,11 @@ while True:
                     t_now = dt.datetime.now()
 
                     timenow = t_now.strftime("%H:%M")
+        elif 'toque' in comando:
+            musica = comando.replace('toque', '')
+            resultado = pywhatkit.playonyt(musica)
+            maquina.say('Iniciando musica')
+            maquina.runAndWait()
         elif 'gravador de voz' in comando:
             freq = 44100
             seconds = 10
