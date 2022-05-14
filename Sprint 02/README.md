@@ -42,7 +42,7 @@ BETA é uma assistente virtual que tem como objetivo auxiliar os alunos em seus 
 
 # BACKLOG SPRINT 2
 
-<img src="https://user-images.githubusercontent.com/102003274/167958881-b72597b4-5a03-4680-94c1-a909a8da501d.png" width="800px" />
+<img src="https://user-images.githubusercontent.com/102263593/168431270-3ae639eb-ecfa-441c-b121-147594e00d02.png" width="800px" />
 </div>
 
 
