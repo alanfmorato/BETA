@@ -11,11 +11,15 @@ import pywhatkit
 import sounddevice as sd
 from scipy.io.wavfile import write
 import os
+from reportlab.pdfgen import canvas
+from reportlab.lib.pagesizes import A4
+
 
 while True:
     audio = sr.Recognizer()
     maquina = pyttsx3.init()
-    maquina.say('Olá, meu nome é beta. Qual função deseja acessar: Pesquisa, Pomodóro, Datas, Reprodutor ou Gravador de voz')
+    maquina.say('Olá, meu nome é BÉTA, Qual função deseja acessar, Pesquisa, Pomodóro, Datas, Gravador de voz, '
+                'toque, livro')
     maquina.runAndWait()
 
 
@@ -196,12 +200,40 @@ while True:
         elif 'gravador de voz' in comando:
             freq = 44100
             seconds = 10
-            
+
             gravacao = sd.rec(int(seconds * freq), samplerate=freq, channels=2)
             print("Começando: Fale agora!!")
             sd.wait()
             print("Fim da gravação!")
             write('output.wav', freq, gravacao)
             os.startfile("output.wav")
+        elif 'livro' in comando:
+            maquina.say('Estou pesquisando o livro que pediu')
+            maquina.runAndWait()
+            consulta = comando.replace('livro', '')
+            try:
+                from googlesearch import search
+            except ImportError:
+                print("Resultado não encontrado")
+            X = []
+            for j in search(consulta, tld="co.in", num=10, stop=10,
+                            pause=2):  # Retorna um compilado dos 10 primeiros links que aparecem na pesquisa google
+                X.append(j)  # Converte o compilado de links em lista para manipular sua posição no pdf
+            print(X)
+
+            def mm2p(milimetros):
+                return milimetros / 0.352777  # converte pontos em milimetros
+
+            cnv = canvas.Canvas('SUA_PESQUISA.pdf', pagesize=A4)  # Define o nome do arquivo pdf e o tamanho da página
+
+            eixo = 250
+
+            for i in range(0, 10):
+                cnv.drawString(mm2p(20), mm2p(eixo), X[i])
+                eixo -= 5  # colocado menos para os links aparecerem na ordem correta
+            cnv.save()  # salva o pdf na pasta downloads do PC
+
+            maquina.say('Foram pesquisados 10 links que estão salvos em pdf em sua pasta downloads')
+            maquina.runAndWait()
 
     comando_voz_usuario()
