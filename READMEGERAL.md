@@ -39,12 +39,12 @@ Obrigado!!
 # EQUIPE BETA 1
 
 * Alan Fabrício Morato
+* Marcela Ribeiro de Melo
 * Ariane Cristine Alves de Sousa
 * Damares Rosa das Montanhas
 * Elizabeth Cristina Alves Leite
 * Larissa Tomé de Souza
 * Luiz Henrique Berti
-* Marcela Ribeiro de Melo
 * Tobias Fernandes Bezerra Sousa
 * Vitória Brancatti Ramos  Lopes Batista
 
@@ -63,8 +63,16 @@ Obrigado!!
 
 # BACKLOG DO PRODUTO
 
-<img src="https://user-images.githubusercontent.com/102003274/163504048-4c7af2f3-2ad1-46cd-a19b-265e1699157c.png" width="800px" />
-</div>
+    🔴 Modo pomodoro 100/100
+    🔴 Consulta simples wikipedia 100/100
+    🔴 Reprodutor de música 100/100
+    🔴 Gravação de voz 100/100
+    🟡 Calendário 80/100
+    🟡 Scraps 80/100
+    🟡 Lembrete 80/100
+    ⚪ Calculadora 70/100
+    ⚪ Clima 70/100
+
 
 # BACKLOG SPRINT 1
 
@@ -82,14 +90,14 @@ Obrigado!!
 
     ✅  **Kick off do projeto** - 17/03/2022 
     ✅  **Sprint 1** - Início: 25/03/2022 Entrega: 14/04/2022
-* [x] **Sprint 2** - Início: 25/04/2022 Entrega: 15/05/2022
+    ✅  **Sprint 2** - Início: 25/04/2022 Entrega: 15/05/2022 
 * [x] **Sprint 3** - Início: 16/05/2022 Entrega: 05/06/2022
 * [x] **Feira de soluções** Data: 15/06/2022
 
 
 # PLANEJAMENTO
 
-- ✅ [JIRA](https://www.atlassian.com/br/software/jira?&aceid=&adposition=&adgroup=122417878230&campaign=12465632619&creative=502390396954&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p61643715359&ds_e=GOOGLE&ds_eid=700000001550060&ds_e1=GOOGLE&gclid=Cj0KCQjw3IqSBhCoARIsAMBkTb2VcJSk0R7A0Gh6L19uLA8IpBjfvvuK79UkXk6w9M3xhCOv9sdf-m0aAoBBEALw_wcB&gclsrc=aw.ds)
+- ✅ [Trello](https://trello.com/pt-BR)
 - ✅ [GITHUB](https://github.com)
 - ✅ [GRÁFICO DE BURNDOWN](#BURNDOWN)
 - ✅ [SERVIDOR DE DISCORD PARA TRABALHAR REMOTAMENTE](https://discord.com)
@@ -98,11 +106,11 @@ Obrigado!!
 # FUNCIONALIDADES
     ✅ Modo pomodoro
     ✅ Consulta simples wikipedia
-* [ ] Calendário
+    ✅ Reprodutor de música
+    ✅ Gravação de voz
+    ✅ Calendário
+    ✅ Scraps
 * [ ] Lembrete
-* [ ] Scraps
-* [ ] Reprodutor de música
-* [ ] Gravação de voz
 * [ ] Clima
 * [ ] Calculadora
 
@@ -126,13 +134,6 @@ Obrigado!!
 
 # SPRINTS
 
--  ✅ SPRINT 1 - Entregue
-- [ ] SPRINT 2 - Aguardando
+    ✅ SPRINT 1 - Entregue </br>
+    ✅ SPRINT 2 - Aguardando </br>
 - [ ] SPRINT 3 - Aguardando
-
-
-
-
-
-
-
