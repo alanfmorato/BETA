@@ -134,6 +134,6 @@ Obrigado!!
 
 # SPRINTS
 
-    ✅ SPRINT 1 - Entregue </br>
-    ✅ SPRINT 2 - Aguardando </br>
+    ✅ SPRINT 1 - Entregue
+    ✅ SPRINT 2 - Entregue
 - [ ] SPRINT 3 - Aguardando
