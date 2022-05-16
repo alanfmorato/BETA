@@ -98,7 +98,6 @@ Obrigado!!
 
 - ✅ [Trello](https://trello.com/pt-BR)
 - ✅ [GITHUB](https://github.com)
-- ✅ [GRÁFICO DE BURNDOWN](#BURNDOWN)
 - ✅ [SERVIDOR DE DISCORD PARA TRABALHAR REMOTAMENTE](https://discord.com)
 - ✅ [METODOLOGIA SCRUM](http://www.desenvolvimentoagil.com.br/scrum/)
 
@@ -117,7 +116,6 @@ Obrigado!!
 
 - ✅ [Python](https://www.python.org)
 - ✅ [HTML](https://html.com)
-- ✅ [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 - ✅ [Photoshop](https://www.adobe.com/br/products/photoshop.html)
 
 
