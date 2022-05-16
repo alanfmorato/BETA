@@ -56,7 +56,7 @@ BETA é uma assistente virtual que tem como objetivo auxiliar os alunos em seus 
 
 # PLANEJAMENTO
 
-- ✅ [Trello](https://trello.com/pt-BR)
+- ✅ [TRELLO](https://trello.com/pt-BR)
 - ✅ [GITHUB](https://github.com)
 - ✅ [SERVIDOR DE DISCORD PARA TRABALHAR REMOTAMENTE](https://discord.com)
 - ✅ [METODOLOGIA SCRUM](http://www.desenvolvimentoagil.com.br/scrum/)
