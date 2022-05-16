@@ -35,8 +35,8 @@ BETA é uma assistente virtual que tem como objetivo auxiliar os alunos em seus 
 
 # FUNCIONALIDADES ENTREGUES
     ✅ Reprodutor de música 100/100
-    ✅ Gravação de voz 100/100
-    ✅ Calendário 80/100
+    ✅ Gravação de voz 90/100
+    ✅ Calendário 70/100
     ✅ Scraps 60/100
 
 
