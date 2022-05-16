@@ -127,6 +127,12 @@ Obrigado!!
 - ✅ [Python - Datetime](https://pypi.org/project/DateTime/)
 - ✅ [Python - Tkinter](https://pypi.org/project/tk-tools/)
 - ✅ [Python - Winsound](https://pypi.org/project/wav-win-sound/)
+- ✅ [Python - tkcalendar](https://pypi.org/project/tkcalendar/)
+- ✅ [Python - pywhatkit](https://pypi.org/project/pywhatkit/)
+- ✅ [Python - sounddevice](https://pypi.org/project/sounddevice/)
+- ✅ [Python - scipy](https://pypi.org/project/scipy/)
+- ✅ [Python - os](https://pypi.org/project/os-sys/)
+- ✅ [Python - reportlab](https://pypi.org/project/reportlab/)
 
 
 # SPRINTS
