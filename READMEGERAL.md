@@ -1,6 +1,3 @@
-<h2 align = "center">
-    📱 PROJETO EM CONSTRUÇÃO!! 🚧
-<h4/>
 
 <h1 align = "center"> Assistente Virtual BETA </h1>
 
