@@ -18,7 +18,7 @@ import requests
 while True:
     audio = sr.Recognizer()
     maquina = pyttsx3.init()
-    maquina.say('Olá, meu nome é BÉTA, Qual função deseja acessar? Pesquisa, Pomodoro, Caendário, Toque, Gravador de voz, Livro, Clima, Calculadora ou lembrete')
+    maquina.say('Olá, meu nome é BÉTA, Qual função deseja acessar? Pesquisa, Pomodoro, Calendário, Toque, Gravador de voz, Livro, Clima, Calculadora ou lembrete')
     maquina.runAndWait()
     pesquisa = pyttsx3.init()
     pesquisa.say
