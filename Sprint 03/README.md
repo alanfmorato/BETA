@@ -56,4 +56,4 @@ BETA é uma assistente virtual que tem como objetivo auxiliar os alunos em seus 
 
 
 # TESTE DAS FUNCIONALIDADES
-https://www.youtube.com/watch?v=hGbtdeCVwQA
+https://www.youtube.com/watch?v=dLlnVVl8DfQ
