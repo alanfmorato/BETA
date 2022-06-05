@@ -13,13 +13,38 @@ from scipy.io.wavfile import write
 import os
 from reportlab.pdfgen import canvas
 from reportlab.lib.pagesizes import A4
+import requests
 
 while True:
     audio = sr.Recognizer()
     maquina = pyttsx3.init()
-    maquina.say('Olá, meu nome é BÉTA, Qual função deseja acessar, Pesquisa, Pomodóro, Datas, Gravador de voz, '
-                'toque, livro')
+    maquina.say('Olá, meu nome é BÉTA, Qual função deseja acessar? Pesquisa, Pomodoro, Caendário, Toque, Gravador de voz, Livro, Clima, Calculadora ou lembrete')
     maquina.runAndWait()
+    pesquisa = pyttsx3.init()
+    pesquisa.say
+    pesquisa.runAndWait()
+    pomodoro = pyttsx3.init()
+    pomodoro.say
+    pomodoro.runAndWait()
+    toque = pyttsx3.init()
+    toque.say
+    toque.runAndWait()
+    gravador = pyttsx3.init()
+    gravador.say
+    gravador.runAndWait()
+    livro = pyttsx3.init()
+    livro.say
+    livro.runAndWait()
+    clima = pyttsx3.init()
+    clima.say
+    clima.runAndWait()
+    calculadora = pyttsx3.init()
+    calculadora.say
+    calculadora.runAndWait()
+    lembretes = pyttsx3.init()
+    lembretes.say
+    lembretes.runAndWait()
+
 
 
     def executa_comando():
@@ -46,8 +71,8 @@ while True:
             procurar = comando.replace('pesquisa', '')
             wikipedia.set_lang('pt')
             resultado = wikipedia.summary(procurar, 2)
-            maquina.say(resultado)
-            maquina.runAndWait()
+            pesquisa.say(resultado)
+            pesquisa.runAndWait()
         elif 'datas' in comando:
             root = Tk()
             root.title("Calendário")
@@ -194,8 +219,8 @@ while True:
         elif 'toque' in comando:
             musica = comando.replace('toque', '')
             resultado = pywhatkit.playonyt(musica)
-            maquina.say('Iniciando musica')
-            maquina.runAndWait()
+            toque.say('Iniciando musica')
+            toque.runAndWait()
         elif 'gravador de voz' in comando:
             freq = 44100
             seconds = 10
@@ -207,8 +232,8 @@ while True:
             write('output.wav', freq, gravacao)
             os.startfile("output.wav")
         elif 'livro' in comando:
-            maquina.say('Estou pesquisando o livro que pediu')
-            maquina.runAndWait()
+            livro.say('Estou pesquisando o livro que pediu')
+            livro.runAndWait()
             consulta = comando.replace('livro', '')
             try:
                 from googlesearch import search
@@ -232,14 +257,14 @@ while True:
                 eixo -= 5  # colocado menos para os links aparecerem na ordem correta
             cnv.save()  # salva o pdf na pasta downloads do PC
 
-            maquina.say('Foram pesquisados 10 links que estão salvos em pdf em sua pasta downloads')
-            maquina.runAndWait()
+            livro.say('Foram pesquisados 10 links que estão salvos em pdf em sua pasta downloads')
+            livro.runAndWait()
         elif 'clima' in comando:
             audio = sr.Recognizer()
             maquina = pyttsx3.init()
             with sr.Microphone() as source:
-                maquina.say("Informe a cidade da qual deseja descobrir a temperatura. ")
-                maquina.runAndWait()
+                clima.say("Informe a cidade da qual deseja descobrir a temperatura. ")
+                clima.runAndWait()
                 print('ouvindo...')
                 voz = audio.listen(source)
                 cidade = audio.recognize_google(voz, language='pt-BR')
@@ -254,23 +279,23 @@ while True:
                 descricao = requisicao_dic['weather'][0]['description']  # Puxa a descrição de como esta o clima
                 temperatura = requisicao_dic['main']['temp'] - 273.15  # Puxa a temperatura atual e faz a conversão
                 maquina = pyttsx3.init()
-                maquina.say(f'Em {cidade} o céu está {descricao} e está {temperatura:.0f}ºC hoje')
-                maquina.runAndWait()
+                clima.say(f'Em {cidade} o céu está {descricao} e está {temperatura:.0f}ºC hoje')
+                clima.runAndWait()
 
         elif 'calculadora' in comando:
             audio = sr.Recognizer()
             maquina = pyttsx3.init()
             with sr.Microphone() as source:
-                maquina.say("Informe o primeiro número: ")
-                maquina.runAndWait()
+                calculadora.say("Informe o primeiro número: ")
+                calculadora.runAndWait()
                 print('ouvindo...')
                 voz = audio.listen(source)
                 n1 = audio.recognize_google(voz, language='pt-BR')
                 n1 = int(n1)
                 print(n1)
             with sr.Microphone() as source:
-                maquina.say("Informe o segundo número: ")
-                maquina.runAndWait()
+                calculadora.say("Informe o segundo número: ")
+                calculadora.runAndWait()
                 print('Ouvindo...')
                 voz = audio.listen(source)
                 n2 = audio.recognize_google(voz, language='pt-BR')
@@ -278,8 +303,8 @@ while True:
                 print(n2)
             audio = sr.Recognizer()
             maquina = pyttsx3.init()
-            maquina.say('Qual operação você deseja efetuar?')
-            maquina.runAndWait()
+            calculadora.say('Qual operação você deseja efetuar?')
+            calculadora.runAndWait()
             with sr.Microphone() as source:
                 print('Ouvindo...')
                 voz = audio.listen(source)
@@ -287,18 +312,57 @@ while True:
                 comando = comando.lower()
                 if 'soma' in comando:
                     mais = n1 + n2
-                    maquina.say(f'O resultado é {mais}')
+                    calculadora.say(f'O resultado é {mais}')
                 elif 'divisão' in comando:
                     barra = n1 / n2
-                    maquina.say(f'O resultado é {barra:.2f}')
+                    calculadora.say(f'O resultado é {barra:.2f}')
                 elif 'subtração' in comando:
                     sub = n1 - n2
-                    maquina.say(f'O resultado é {sub:.2f}')
+                    calculadora.say(f'O resultado é {sub:.2f}')
                 elif 'multiplicação' in comando:
                     mut = n1 * n2
-                    maquina.say(f'O resultado é {mut:.2f}')
+                    calculadora.say(f'O resultado é {mut:.2f}')
                 elif 'potencialização' in comando:
                     pot = n1 ** n2
-                    maquina.say(f'O resultado é {pot:.2f}')
+                    calculadora.say(f'O resultado é {pot:.2f}')
+
+        if 'lembrete' in comando:
+            audio = sr.Recognizer()
+            maquina = pyttsx3.init()
+            with sr.Microphone() as source:
+                lembretes.say(
+                    "VOCÊ DESEJA CADASTRAR?"
+                )
+                lembretes.runAndWait()
+                print('Ouvindo...')
+                voz = audio.listen(source)
+                comando = audio.recognize_google(voz, language='pt-BR')
+                comando = comando.lower()
+                if 'cadastrar' in comando:
+                    with sr.Microphone() as source:
+                        lembretes.say("Diga o que deseja lembrar: ")
+                        lembretes.runAndWait()
+                        print('Ouvindo...')
+                        voz = audio.listen(source)
+                        tarefa = audio.recognize_google(voz, language='pt-BR')
+                        tarefa = str(tarefa)
+                        print(tarefa)
+                    with sr.Microphone() as source:
+                        lembretes.say("Qual data você deseja lembrar:")
+                        lembretes.runAndWait()
+                        print('Ouvindo...')
+                        voz = audio.listen(source)
+                        data = audio.recognize_google(voz, language='pt-BR')
+                        data = str(data)
+                        print(data)
+                    lembrete = open("lembrete.txt", "a")
+                    dados = f'{tarefa};{data}\n'
+                    lembrete.write(dados)
+                    lembrete.close()
+                    lembretes.say(f'Lembrete gravado com sucesso!')
+                    abrir = open(r"C:\Users\morat\Downloads\lembrete.txt", 'r')
+                    for i in abrir:
+                        print(i)
+                    maquina.runAndWait()
 
     comando_voz_usuario()
