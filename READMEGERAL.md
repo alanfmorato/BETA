@@ -1,6 +1,3 @@
-<h2 align = "center">
-    📱 PROJETO EM CONSTRUÇÃO!! 🚧
-<h4/>
 
 <h1 align = "center"> Assistente Virtual BETA </h1>
 
@@ -39,11 +36,12 @@ Obrigado!!
 # EQUIPE BETA 1
 
 * Alan Fabrício Morato
+* Marcela Ribeiro de Melo
 * Ariane Cristine Alves de Sousa
+* Damares Rosa das Montanhas
 * Elizabeth Cristina Alves Leite
 * Larissa Tomé de Souza
 * Luiz Henrique Berti
-* Marcela Ribeiro de Melo
 * Tobias Fernandes Bezerra Sousa
 * Vitória Brancatti Ramos  Lopes Batista
 
@@ -90,13 +88,13 @@ Obrigado!!
     ✅  **Kick off do projeto** - 17/03/2022 
     ✅  **Sprint 1** - Início: 25/03/2022 Entrega: 14/04/2022
     ✅  **Sprint 2** - Início: 25/04/2022 Entrega: 15/05/2022 
-* [x] **Sprint 3** - Início: 16/05/2022 Entrega: 05/06/2022
+    ✅ **Sprint 3** - Início: 16/05/2022 Entrega: 05/06/2022
 * [x] **Feira de soluções** Data: 15/06/2022
 
 
 # PLANEJAMENTO
 
-- ✅ [TRELLO](https://trello.com/pt-BR)
+- ✅ [Trello](https://www.atlassian.com/br/software/jira?&aceid=&adposition=&adgroup=122417878230&campaign=12465632619&creative=502390396954&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p61643715359&ds_e=GOOGLE&ds_eid=700000001550060&ds_e1=GOOGLE&gclid=Cj0KCQjw3IqSBhCoARIsAMBkTb2VcJSk0R7A0Gh6L19uLA8IpBjfvvuK79UkXk6w9M3xhCOv9sdf-m0aAoBBEALw_wcB&gclsrc=aw.ds)
 - ✅ [GITHUB](https://github.com)
 - ✅ [SERVIDOR DE DISCORD PARA TRABALHAR REMOTAMENTE](https://discord.com)
 - ✅ [METODOLOGIA SCRUM](http://www.desenvolvimentoagil.com.br/scrum/)
@@ -108,14 +106,15 @@ Obrigado!!
     ✅ Gravação de voz
     ✅ Calendário
     ✅ Scraps
-* [ ] Lembrete
-* [ ] Clima
-* [ ] Calculadora
+    ✅ Lembrete
+    ✅ Clima
+    ✅ Calculadora
 
 # TECNOLOGIAS
 
 - ✅ [Python](https://www.python.org)
 - ✅ [HTML](https://html.com)
+- ✅ [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 - ✅ [Photoshop](https://www.adobe.com/br/products/photoshop.html)
 
 
@@ -127,16 +126,10 @@ Obrigado!!
 - ✅ [Python - Datetime](https://pypi.org/project/DateTime/)
 - ✅ [Python - Tkinter](https://pypi.org/project/tk-tools/)
 - ✅ [Python - Winsound](https://pypi.org/project/wav-win-sound/)
-- ✅ [Python - tkcalendar](https://pypi.org/project/tkcalendar/)
-- ✅ [Python - pywhatkit](https://pypi.org/project/pywhatkit/)
-- ✅ [Python - sounddevice](https://pypi.org/project/sounddevice/)
-- ✅ [Python - scipy](https://pypi.org/project/scipy/)
-- ✅ [Python - os](https://pypi.org/project/os-sys/)
-- ✅ [Python - reportlab](https://pypi.org/project/reportlab/)
 
 
 # SPRINTS
 
     ✅ SPRINT 1 - Entregue
     ✅ SPRINT 2 - Entregue
-- [ ] SPRINT 3 - Aguardando
+    ✅ SPRINT 3 - Entregue
