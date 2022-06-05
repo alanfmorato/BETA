@@ -28,7 +28,6 @@ Essa documentação tem como objetivo direcionar o uso da nossa assistente virtu
 * Alan Fabrício Morato
 * Marcela Ribeiro de Melo
 * Ariane Cristine Alves de Sousa
-* Damares Rosa das Montanhas
 * Elizabeth Cristina Alves Leite
 * Larissa Tomé de Souza
 * Luiz Henrique Berti
@@ -42,30 +41,39 @@ Para acessar as funções diga exatamente uma das funções da fala inicial da b
 **Pesquisa, Pomodoro, Calendário, Toque, Gravador de voz, Livro, Clima, Calculadora ou lembrete**
 
 **Modo pomodoro**
+    
 Função que auxilia na gestão de tempo em tarefas/estudos. O método possui é dividido em quatro tempos. Primeiro você realiza uma atividade durante 25 minutos, quando acabar o tempo, descansa 5 minutos. Assim sucessivamente até completar três sequências. A quarta rodada possui duração de 25 minutos, porém permite descanso de 30 minutos. O usuário é informado pela assistente virtual o início, hora do intervalo, quantidades de sequências e fim.
 
 **Consulta simples Wikipedia ou Pesquisa**
+    
 Função que permite ao usuário falar algo que deseja pesquisar na Wikipedia e a assistente virtual retornará o significado. Para utilizar a função é necessário dizer Beta, pesquisa + o que deseja pesquisar.
 
-**Reprodutor de música**
+**Reprodutor de música (toque)**
+    
 Função que permite ao usuário solicitar que a assistente reproduza alguma música e abrirá na tela Youtube que dará início a música escolhida. Para utilizar a função é necessário dizer Beta, toque + Nome da música.
 
 **Gravador de voz**
+    
 Função que permite iniciar uma gravação, e posteriormente obter um arquivo no formato wav com o áudio. Para utilizar a função é necessário dizer Beta, gravador de voz.
 
 **Calendário ou Datas**
+    
 Função que plota na tela uma janela com representação do calendário do mês atual, selecionando em azul o dia vigente. Para utilizar a função é necessário dizer Beta, datas.
 
-**Scraps**
+**Scraps (livro)**
+    
 Função que pesquisa na web links de livros que o usuário deseja fazer download. O código retorna um compilado dos 10 primeiros links que aparecem na pesquisa Google e converte o compilado de links em lista em um arquivo pdf. Para utilizar a função é necessário dizer Beta, livro.
 
 **Clima**
+    
 Função que retorna a temperatura em um município. A assistente virtual pergunta qual a cidade que deseja saber a temperatura e o usuário indica a cidade pelo nome. O código consulta a API: https://api.openweathermap.org/data/2.5/weather?q={cidade}&appid={API_KEY}&lang=pt_br que possui como retorno a temperatura da cidade de entrada e descrição do tempo, Exemplo: se a nuvens, se o dia esta ensolarado, entre outros.) Para utilizar a função é necessário dizer Beta, clima.
 
 **Calculadora**
+    
 Função que permite realizar operações matemáticas por controle de voz. É necessário inserir como entrada dois números e escolher a operação, entre as opções estão: soma, subtração, multiplicação, divisão e potencialização. Para utilizar a função é necessário dizer Beta, calculadora.
 
 **Lembrete**
+    
 Função que permite armazenar em um arquivo txt dados de tarefa e data através de reconhecimento de voz, e posteriormente é permitido consultá-los pelo menu da função. Para utilizar a função é necessário dizer Beta, lembrete.
 
 
