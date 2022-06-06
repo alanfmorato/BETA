@@ -41,7 +41,7 @@ BETA é uma assistente virtual que tem como objetivo auxiliar os alunos em seus 
     ✅ Clima 60/100
 
 
-# BACKLOG SPRINT 2
+# BACKLOG SPRINT 3
 
 <img src="https://user-images.githubusercontent.com/102003274/172048909-7c6466cf-0119-492e-ad0c-e0e653874019.png" width="800px" />
 </div>
