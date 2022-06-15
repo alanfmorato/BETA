@@ -77,7 +77,7 @@ Função que permite realizar operações matemáticas por controle de voz. É n
 Função que permite armazenar em um arquivo txt dados de tarefa e data através de reconhecimento de voz, e posteriormente é permitido consultá-los pelo menu da função. Para utilizar a função é necessário dizer Beta, lembrete.
 
 
-# BIBIOTECAS
+# BIBLIOTECAS
 
 - ✅ [SpeechRecognition 3.8.1](https://pypi.org/project/SpeechRecognition/)
 - ✅ [Wikipedia](https://pypi.org/project/wikipedia/)
